@@ -2,7 +2,7 @@
 Leverages the built-in assoc command and a public powershell file handler script to map file types to handler on Windows
 
 # Purpose
-If you're looking for targets to hunt for security vulnerabilities, eg. fuzzing then this is script can do the basics for enumerating attack surface by producing a mapping of which applications have default associations with which file types. All credit for original code goes to the folks on [Stackoverflow](https://stackoverflow.com/a/60972216).
+If you're looking for targets to hunt for security vulnerabilities, eg. fuzzing then this is script can do the basics for enumerating attack surface by producing a mapping of which applications have default associations with which file types. Credit for original code goes to the folks on [Stackoverflow](https://stackoverflow.com/a/60972216). This was a quick modification to serve a purpose and figure out what's interesting in the way of Windows file handlers and third party file associations.
 
 # Usage
 
