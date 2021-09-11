@@ -1,0 +1,250 @@
+.386 ::
+.3g2 ::
+.3gp ::
+.3gp2 ::
+.3gpp ::
+.AAC ::
+.accountpicture-ms ::
+.acrobatsecuritysettings :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.ADT ::
+.ADTS ::
+.aif :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.aifc :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.aiff :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.ani ::
+.api ::
+.appcontent-ms ::
+.application :: C:\Windows\System32\dfshim.dll
+.appref-ms :: C:\Windows\System32\dfshim.dll
+.asa ::
+.asf :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.asp ::
+.asx :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.au :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.avi ::
+.bat :: %1
+.blg :: C:\Windows\system32\perfmon.exe
+.bmp ::
+.cab :: C:\Windows\Explorer.exe
+.camp :: C:\Windows\system32\colorcpl.exe
+.cat :: C:\Windows\system32\cryptext.dll
+.cda :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.cdmp :: C:\Windows\system32\colorcpl.exe
+.cdx ::
+.cdxml :: C:\Windows\system32\NOTEPAD.EXE
+.cer :: C:\Windows\system32\cryptext.dll
+.chk ::
+.chm :: C:\Windows\hh.exe
+.cmd :: %1
+.com :: %1
+.compositefont :: C:\Windows\System32\notepad.exe
+.cpl :: C:\Windows\System32\control.exe
+.crl :: C:\Windows\system32\cryptext.dll
+.crt :: C:\Windows\system32\cryptext.dll
+.css :: C:\Windows\system32\NOTEPAD.EXE
+.cur ::
+.db ::
+.dctx :: C:\Windows\system32\IME\SHARED\imewdbld.exe
+.dctxc :: C:\Windows\system32\IME\SHARED\imewdbld.exe
+.dds ::
+.der :: C:\Windows\system32\cryptext.dll
+.desklink ::
+.deskthemepack :: C:\Windows\system32\themecpl.dll
+.diagcab :: C:\Windows\system32\msdt.exe
+.diagcfg :: C:\Windows\system32\msdt.exe
+.diagpkg :: C:\Windows\system32\msdt.exe
+.dib ::
+.dll ::
+.docx :: C:\Program Files\Windows NT\Accessories\WORDPAD.EXE
+.drv ::
+.dsn ::
+.emf :: C:\Windows\system32\mspaint.exe
+.eml ::
+.evt :: C:\Windows\system32\eventvwr.exe
+.evtx :: C:\Windows\system32\eventvwr.exe
+.exe :: %1
+.fdf :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.flac ::
+.fon :: C:\Windows\System32\fontview.exe
+.gif ::
+.gmmp :: C:\Windows\system32\colorcpl.exe
+.grp ::
+.hlp :: C:\Windows\winhlp32.exe
+.hta :: C:\Windows\SysWOW64\mshta.exe
+.htm :: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+.html :: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+.icc :: C:\Windows\system32\colorcpl.exe
+.icl ::
+.icm :: C:\Windows\system32\colorcpl.exe
+.ico ::
+.imesx :: C:\Windows\system32\IME\SHARED\imesearch.exe
+.img :: C:\Windows\Explorer.exe
+.inf :: C:\Windows\system32\NOTEPAD.EXE
+.ini :: C:\Windows\system32\NOTEPAD.EXE
+.iso :: C:\Windows\Explorer.exe
+.jfif ::
+.Job ::
+.jod ::
+.jpe ::
+.jpeg ::
+.jpg ::
+.js :: C:\Windows\System32\WScript.exe
+.JSE :: C:\Windows\System32\WScript.exe
+.jxr ::
+.label ::
+.library-ms :: C:\Windows\Explorer.exe
+.lnk ::
+.log :: C:\Windows\system32\NOTEPAD.EXE
+.m1v :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.M2T ::
+.M2TS ::
+.M2V :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.m3u ::
+.m4a ::
+.m4v ::
+.mapimail ::
+.mht :: C:\Program Files\Internet Explorer\iexplore.exe
+.mhtml :: C:\Program Files\Internet Explorer\iexplore.exe
+.mid :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.midi :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.mk3d :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.mka ::
+.mkv ::
+.mlc :: C:\Windows\system32\lpksetup.exe
+.MOD ::
+.mov ::
+.mp2 :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.mp2v :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.mp3 ::
+.mp4 ::
+.mp4v ::
+.mpa ::
+.mpe ::
+.mpeg ::
+.mpg ::
+.mpv2 ::
+.ms-windows-store-license :: C:\Windows\System32\licensemanagershellext.exe
+.msc :: C:\Windows\system32\mmc.exe
+.msi :: C:\Windows\System32\msiexec.exe
+.msp :: C:\Windows\System32\msiexec.exe
+.msrcincident :: C:\Windows\system32\msra.exe
+.msstyles :: C:\Windows\system32\shell32.dll
+.msu :: C:\Windows\system32\wusa.exe
+.MTS ::
+.mydocs ::
+.nfo :: C:\Windows\system32\msinfo32.exe
+.ocx ::
+.odt :: C:\Program Files\Windows NT\Accessories\WORDPAD.EXE
+.osdx :: C:\Windows\explorer.exe
+.otf :: C:\Windows\System32\fontview.exe
+.p10 ::
+.p12 :: C:\Windows\system32\cryptext.dll
+.p7b :: C:\Windows\system32\cryptext.dll
+.p7c :: C:\Program Files\Windows Mail\wab.exe
+.p7m ::
+.p7r :: C:\Windows\system32\cryptext.dll
+.p7s :: C:\Windows\system32\cryptext.dll
+.partial :: C:\Program Files\Internet Explorer\iexplore.exe
+.pbk :: C:\Windows\system32\rasphone.exe
+.pdf :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.pdfxml :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.pdx :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.perfmoncfg :: C:\Windows\system32\perfmon.exe
+.pfm :: C:\Windows\System32\fontview.exe
+.pfx :: C:\Windows\system32\cryptext.dll
+.pif :: %1
+.pko ::
+.pnf ::
+.png ::
+.ppk :: C:\Program Files (x86)\PuTTY\pageant.exe
+.ppkg :: C:\Windows\System32\provtool.exe
+.prf :: C:\Windows\System32\msrating.dll
+.printerExport :: C:\Windows\system32\PrintBrmUI.exe
+.ps1 :: C:\Windows\System32\notepad.exe
+.ps1xml :: C:\Windows\system32\NOTEPAD.EXE
+.psc1 :: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+.psd1 :: C:\Windows\System32\notepad.exe
+.psm1 :: C:\Windows\System32\notepad.exe
+.pssc :: C:\Windows\system32\NOTEPAD.EXE
+.py :: C:\Python27\python.exe
+.pyc :: C:\Python27\python.exe
+.pyo :: C:\Python27\python.exe
+.pyw :: C:\Python27\pythonw.exe
+.qds :: C:\Windows\system32\dsquery.dll
+.rat :: C:\Windows\System32\msrating.dll
+.RDP :: C:\Windows\system32\mstsc.exe
+.reg :: C:\Windows\regedit.exe
+.resmoncfg :: C:\Windows\system32\perfmon.exe
+.rle :: C:\Windows\system32\mspaint.exe
+.rll ::
+.rmi :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.rtf :: C:\Program Files\Windows NT\Accessories\WORDPAD.EXE
+.scf :: C:\Windows\explorer.exe
+.scp :: C:\Windows\system32\NOTEPAD.EXE
+.scr :: %1
+.sct :: C:\Windows\System32\NOTEPAD.EXE
+.search-ms :: C:\Windows\Explorer.exe
+.searchConnector-ms :: C:\Windows\Explorer.exe
+.secstore ::
+.settingcontent-ms ::
+.sfcache ::
+.snd :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.spc :: C:\Windows\system32\cryptext.dll
+.spl ::
+.sst :: C:\Windows\system32\cryptext.dll
+.svg :: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+.svgz :: C:\Program Files\Inkscape\bin\inkscape.exe
+.swf ::
+.symlink ::
+.sys ::
+.theme :: C:\Windows\system32\themecpl.dll
+.themepack :: C:\Windows\system32\themecpl.dll
+.tif :: C:\Program Files\Windows Photo Viewer\PhotoViewer.dll
+.tiff :: C:\Program Files\Windows Photo Viewer\PhotoViewer.dll
+.TS ::
+.ttc :: C:\Windows\System32\fontview.exe
+.ttf :: C:\Windows\System32\fontview.exe
+.TTS ::
+.txt :: C:\Windows\system32\NOTEPAD.EXE
+.UDL :: C:\Program Files\Common Files\System\OLE DB\oledb32.dll
+.URL :: C:\Windows\System32\ieframe.dll
+.VBE :: C:\Windows\System32\WScript.exe
+.vbs :: C:\Windows\System32\WScript.exe
+.vhd :: C:\Windows\Explorer.exe
+.vhdpmem ::
+.vhdx :: C:\Windows\Explorer.exe
+.vxd ::
+.wab :: C:\Program Files\Windows Mail\wab.exe
+.wav ::
+.wax :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.wbcat :: C:\Windows\system32\sdclt.exe
+.wcx :: C:\Windows\System32\xwizard.exe
+.wdp ::
+.webpnp :: C:\Windows\system32\wpnpinst.exe
+.website :: C:\Program Files\Internet Explorer\iexplore.exe
+.wm ::
+.wma ::
+.WMD :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.wmdb ::
+.wmf :: C:\Windows\system32\mspaint.exe
+.WMS :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.wmv ::
+.wmx :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.wmz :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.wpl ::
+.wsc :: C:\Windows\System32\NOTEPAD.EXE
+.WSF :: C:\Windows\System32\WScript.exe
+.WSH :: C:\Windows\System32\WScript.exe
+.wtx :: C:\Windows\system32\NOTEPAD.EXE
+.wvx :: C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+.xaml :: C:\Windows\System32\PresentationHost.exe
+.xbap :: C:\Windows\System32\PresentationHost.exe
+.xdp :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.xfdf :: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+.xht :: C:\Program Files\Internet Explorer\iexplore.exe
+.xhtml :: C:\Program Files\Internet Explorer\iexplore.exe
+.xml :: C:\Program Files\Internet Explorer\iexplore.exe
+.xrm-ms :: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+.xsl :: C:\Program Files\Internet Explorer\iexplore.exe
+.ZFSendToTarget ::
+.zip :: C:\Windows\Explorer.exe
